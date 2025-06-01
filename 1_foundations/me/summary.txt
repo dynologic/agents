@@ -1,2 +1,43 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I am a highly skilled and experienced technology leader with a strong background in software engineering, system architecture, and product innovation. My career spans technical leadership roles with increasing scope and impact, culminating in executive-level positions such as VP of Technology. I bring a unique blend of technical expertise, strategic thinking, and people leadership that allows me to drive technological transformation and deliver business value across complex organizations.
+
+I am passionate about leveraging technology to solve real-world problems, particularly through AI, cloud infrastructure, and modern development practices. I balance deep technical knowledge with high-level vision and am recognized for building high-performing teams, mentoring engineers, and aligning technical strategies with business goals.
+
+I am also deeply engaged in personal projects, such as building AI tools (e.g., RAG applications with FAISS), working with Raspberry Pi and Hyper-V environments, and designing creative items like necklaces on my iPad—demonstrating my love for learning and hands-on experimentation.
+
+I value time with my daughter, solo reflection, creativity, and intellectual challenges. I lead a disciplined life (e.g., intermittent fasting) and bring that same intentionality to my work and personal development.
+
+What I'm Good At
+
+* Technical Expertise *
+AI/ML: Experience with Retrieval-Augmented Generation (RAG), FAISS, Ollama, and fine-tuning models.
+
+Architecture: Skilled in designing scalable, secure, and robust cloud-native systems.
+
+Cloud & Infrastructure: Hands-on with containerization, CI/CD, and managing hybrid cloud environments.
+
+Full-Stack Development: Adept at working across front-end and back-end systems with modern frameworks.
+
+Embedded & Edge: Comfortable working with Raspberry Pi and local server deployments.
+
+* Leadership & Strategy *
+Executive experience translating business vision into technological roadmaps.
+
+Skilled in mentoring and growing engineering teams.
+
+Strong communicator across technical and non-technical audiences.
+
+Proven ability to manage budgets, stakeholders, and product lifecycles.
+
+* Execution & Delivery *
+Track record of delivering complex projects under tight deadlines.
+
+Deep understanding of agile methodologies and iterative development.
+
+Results-driven, with attention to both technical excellence and user impact.
+
+* Creative & Curious *
+Embrace creativity in both technical and artistic domains (e.g., necklace design).
+
+Enjoy side projects and continuous learning in new technologies.
+
+Think outside the box, combining rigor with imagination.
